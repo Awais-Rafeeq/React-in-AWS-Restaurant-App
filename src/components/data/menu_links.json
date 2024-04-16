@@ -1,0 +1,30 @@
+[
+    {
+       "class":"info",
+       "heref":"hotelinfo",
+       "text":"info" 
+    },
+    {
+        "class":"rooms",
+        "heref":"rooms",
+        "text":"rooms" 
+     },
+     {
+        "class":"dining",
+        "heref":"dining",
+        "text":"dining" 
+     },
+     {
+        "class":"info",
+        "heref":"hotelinfo",
+        "text":"info" 
+     },
+     {
+        "class":"info",
+        "heref":"hotelinfo",
+        "text":"info" 
+     }
+        
+
+
+]
