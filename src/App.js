@@ -3,7 +3,7 @@ import './App.css';
 
 function App() {
   return (
-    <div className="App">
+    <div className="Ap">
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
@@ -11,11 +11,13 @@ function App() {
         </p>
         <a
           className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
+          href="aidatahouse.com"
+          target="aidatahouse.com"
           rel="noopener noreferrer"
         >
-          Learn React
+          Visit aidatahouse.com
+          /n afa beta
+
         </a>
       </header>
     </div>
