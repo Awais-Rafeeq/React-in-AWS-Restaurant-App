@@ -1,0 +1,26 @@
+.footer-content {
+    display: flex;
+    justify-content: space-around;
+    padding: 20px;
+    background: #f8f8f8;
+  }
+  
+  .footer-content div {
+    flex: 1;
+  }
+  
+  .social-icons {
+    list-style: none;
+    padding: 0;
+  }
+  
+  .social-icons li {
+    display: inline-block;
+    margin-right: 10px;
+  }
+  
+  .icon {
+    width: 24px;
+    height: 24px;
+  }
+  
